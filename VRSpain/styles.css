@@ -1,0 +1,87 @@
+* {
+    padding:0;
+    margin:0;
+}
+
+
+header {
+    border: 1px solid red
+}
+
+#logo {
+    margin: 10px 0 0 10px;  /*T R B L*/
+}
+
+header p {
+    color: white;
+    display: inline;
+    position: relative;
+    bottom: 20px;
+}
+
+nav {
+    text-align: center;
+    width: 35%;
+    border: 1px solid red;
+    margin:auto;
+    position: relative;
+    bottom: 38px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+nav li {
+    display: inline-block;
+}
+
+header{
+    background-color: #141416;
+}
+
+header div {
+    width: 140 px;
+    border:1px solid red ; 
+    position: fixed;
+    top: 0px;   
+    right: 0px;
+    
+}
+
+#banner {
+    border :1px solid red;
+}
+
+h1 {
+    text-align: center;
+}
+
+#banner p {
+    font-size: 150px;
+    text-align: center;
+    position: relative;
+    top: 270px;
+    left: 80px;
+}
+
+#vr {
+    margin-right: 250px;
+}
+
+#spain {
+    margin-left: 250px;
+}
+
+#gafas {
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+#brazo {
+    display: block;
+    margin: auto;
+}
+
